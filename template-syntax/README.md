@@ -1,24 +1,9 @@
-# template-syntax
+# UI 컴포넌트 설계 및 제작
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 헤더 네비게이션 컴포넌트화
+- 로그인 폼 컴포넌트화
+- 드롭다운 컴포넌트화
+- 모달 컴포넌트화
+  - 확인 모달 유형
+  - 에러 모달 유형
+- 프로필 컴포넌트화

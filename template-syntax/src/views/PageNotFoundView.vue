@@ -1,6 +1,6 @@
 <template>
   <div>
-    URL 이름을 확인하세요
+    메뉴를 선택해 주세요
   </div>
 </template>
 
