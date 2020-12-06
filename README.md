@@ -1,6 +1,6 @@
 # Vue.js Clean Code
 
-Watch Me Code Vue.js 강의를 위한 리포지토리입니다.
+[Watch Me Code Vue.js 강의](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=FA00E4)를 위한 리포지토리입니다.
 
 ## 교과 과정
 
