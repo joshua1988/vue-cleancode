@@ -1,0 +1,5 @@
+function setupModal() {
+
+}
+
+export { setupModal}

@@ -1,0 +1,17 @@
+{
+  "name": "prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-prettier.js",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier my-prettier"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
