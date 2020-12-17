@@ -12,17 +12,6 @@
 ## 수업 교안
 
 - [Cracking Vue.js](https://joshua1988.github.io/vue-camp)
-
-## 수업에서 언급한 자료
-
-- [Vue 3 소개 글](https://joshua1988.github.io/web-development/vuejs/vue3-coming/)
-- [Vue.js 3 Repo](https://github.com/vuejs/vue-next)
-- [Kent C Dodds Blog](https://kentcdodds.com/)
-- [Kent C Dodds Github](https://github.com/kentcdodds/)
-- [Vue Testing Library](https://github.com/testing-library/vue-testing-library#more-examples)
-- [Vue Test Utils](https://vue-test-utils.vuejs.org/)
-- [Vue Test Utils Tutorials 예제 코드](https://github.com/joshua1988/vue-test-tutorial)
-
 ## 개발 환경 구성
 
 - [Chrome](https://www.google.com/intl/ko/chrome/)
