@@ -13,7 +13,7 @@
 
 - [Cracking Vue.js](https://joshua1988.github.io/vue-camp)
 
-## 수업에서 언급한 자료
+## 1주차 수업에서 언급한 자료
 
 - [Vue 3 소개 글](https://joshua1988.github.io/web-development/vuejs/vue3-coming/)
 - [Vue.js 3 Repo](https://github.com/vuejs/vue-next)
@@ -22,6 +22,28 @@
 - [Vue Testing Library](https://github.com/testing-library/vue-testing-library#more-examples)
 - [Vue Test Utils](https://vue-test-utils.vuejs.org/)
 - [Vue Test Utils Tutorials 예제 코드](https://github.com/joshua1988/vue-test-tutorial)
+
+## 2주차 수업에서 언급한 자료
+
+- [Slot](https://joshua1988.github.io/vue-camp/reuse/slots.html)
+- [Materialize CSS](https://materializecss.com/)
+- [Vuetify](https://vuetifyjs.com/)
+- [Material Design Lite](https://getmdl.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Ant Design](https://ant.design/)
+- [Element UI](https://element.eleme.io/)
+- [뷰 프로젝트 설정된 웹팩 설정 확인 방법](https://joshua1988.github.io/vue-camp/webpack/project-setup.html)
+- [타입스크립트 핸드북](https://joshua1988.github.io/ts/)
+- [Swagger API 문서 참고 사례](https://petstore.swagger.io/)
+- [VSCode Github](https://github.com/microsoft/vscode/)
+- [타입스크립트 창시자](https://github.com/ahejlsberg)
+- [타입스크립트 공식 문서](https://www.typescriptlang.org/)
+- [VuePress로 사이트 만드는 방법](https://joshua1988.github.io/vue-camp/vuepress/learning-note.html)
+- [성능 및 PWA 학습에 좋은 사이트](https://web.dev/)
+- [Vue Enterprise Boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+- [Computed 속성 활용 방법 - 유투브 영상](https://www.youtube.com/watch?v=Z9OGUU6G8vM)
+- [ESlint Plugin Vue](https://eslint.vuejs.org/)
+- [뷰 한글 입력 처리 안내 문서](https://joshua1988.github.io/web-development/vuejs/v-model-usage/)
 
 ## 개발 환경 구성
 
