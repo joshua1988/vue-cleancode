@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen bg-grey-lighter p-8">
     <div class="max-w-xs mx-auto mb-8">
-      <photo-card :image="imageLinks[0]" title="Card 1" contents="Card Content 1"></photo-card>
+      <photo-card :image="imageLinks[0]"></photo-card>
     </div>
 
     <div class="max-w-xs mx-auto mb-8">
